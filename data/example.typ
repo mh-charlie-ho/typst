@@ -4,7 +4,6 @@
 )
 
 #set text(
-  font: "Arial",
   size: 20pt,
 )
 
